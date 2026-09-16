@@ -1,3 +1,11 @@
+## Dashboard Preview
+
+### Dashboard – Page 1
+![Dashboard Page 1](dashboard-page-1.png)
+
+### Dashboard – Page 2
+![Dashboard Page 2](dashboard-page-2.png)
+
 ## 🌍 Global E-Commerce Performance Dashboard
 
 An interactive Power BI report built to analyze global e-commerce sales, logistics, and returns performance — covering **51,000+ orders** across **7 markets** and **4 years (2011–2014)**, with a focus on profitability, shipping efficiency, and return risk.
