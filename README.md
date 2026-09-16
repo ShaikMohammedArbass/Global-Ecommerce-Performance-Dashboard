@@ -1,6 +1,6 @@
-![Global E-Commerce Dashboard - Page 1](images/dashboard-page-1.png)
+![Global E-Commerce Dashboard - Page 1]("E:\Projects\E-Commerce Project\dashboard-page-1.png.png")
 
-![Global E-Commerce Dashboard - Page 2](images/dashboard-page-2.png)
+![Global E-Commerce Dashboard - Page 2]("E:\Projects\E-Commerce Project\dashboard-page-2.png.png")
 
 ## 🌍 Global E-Commerce Performance Dashboard
 
